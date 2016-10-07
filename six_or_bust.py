@@ -21,7 +21,7 @@ Tests:
 
 # This code tests your solution. Don't edit it.
 import doctest
-def run_tests():
+def run_tests(n):
     doctest.testmod(verbose=True)
 
 
